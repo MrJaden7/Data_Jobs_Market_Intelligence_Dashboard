@@ -83,6 +83,9 @@ Built with a decision-first, insight-driven approach
 📊 Dashboard Structure
 🔎 Page 1: Market Overview
 
+<img width="1633" height="916" alt="image" src="https://github.com/user-attachments/assets/3ebf641f-4837-4d75-8b65-103c2963eb14" />
+
+
 A high-level view of the global data job market, including:
 
 Total job volume
@@ -96,6 +99,9 @@ Hiring trends across the year
 This page enables quick strategic insights for career planning and market awareness.
 
 📌 Page 2: Job Role Deep Dive
+
+<img width="1635" height="915" alt="image" src="https://github.com/user-attachments/assets/96afd16a-e2b9-48a3-8b72-6051a1ce270b" />
+
 
 A detailed drill-through view for each job title, showing:
 
